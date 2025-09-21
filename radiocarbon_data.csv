@@ -2,3 +2,5 @@ SampleID,AgeBP,Error,Material
 RC-001,1500,50,Charcoal
 RC-002,2100,75,Bone
 RC-003,800,30,Wood
+RC-004,1200,40,Textile
+RC-005,950,25,Grain
